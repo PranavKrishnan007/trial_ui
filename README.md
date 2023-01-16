@@ -1,4 +1,4 @@
-# This is my submission for COPY.UI
+# Implementation of a UI from a figma design
 ![Screenshot 2023-01-15 at 2 00 29 PM](https://user-images.githubusercontent.com/89575829/212530566-4fcd1f33-d7c8-4625-95de-5926b10b8145.jpg)
 -------------------
 
